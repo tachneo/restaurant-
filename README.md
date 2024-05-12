@@ -61,5 +61,5 @@ Distributed under the MIT License. See LICENSE for more information.
 Contact
 Your Name – @tvnetindia – info@tachy.in
 
-Project Link: https://github.com/tachy/restaurant-management-system
+Project Link: https://github.com/tachneo/restaurant-management-system
 
