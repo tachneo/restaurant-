@@ -21,6 +21,12 @@ This Restaurant Management System is designed to streamline the operations of a 
 - **Backend**: PHP, MySQL
 - **Database**: MySQL
 
+![image](https://github.com/tachneo/restaurant-management-system/assets/35033453/ef83583d-f18e-431a-a417-9bab93f29a36)
+
+
+![image](https://github.com/tachneo/restaurant-management-system/assets/35033453/c1490159-889e-4484-a142-efb7f038de14)
+
+
 ## Setup
 
 1. **Clone the repository:**
